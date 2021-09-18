@@ -1,0 +1,16 @@
+article {
+    float :right;
+    text-align: left;
+    color: white;
+    width: 500px;
+    padding: 50px;
+    padding-top: 4%;
+    font-size: large;
+
+}
+iframe {
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+    padding-top: 4.5%;
+}
